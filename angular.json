@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "middleware-front-end"
+    }
+  },
+  "defaultProject": "middleware-front-end",
+  "cli": {
+    "analytics": false
+  }
 }
